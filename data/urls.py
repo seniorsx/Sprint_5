@@ -1,0 +1,1 @@
+app = "https://qa-desk.stand.praktikum-services.ru"
